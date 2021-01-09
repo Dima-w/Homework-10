@@ -345,7 +345,7 @@ footer{
 }
 @media screen and (max-width: 1000px) {
   .left-tex {
-    margin-right: 1px;
+    margin-right: 10px;
   }
 }
 @media screen and (max-width: 1000px) {

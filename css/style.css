@@ -343,12 +343,12 @@ footer{
 .footer-info{
   width: 550px;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1020px) {
   .left-tex {
     margin-right: 10px;
   }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1020px) {
   .right-tex {
     margin-left: 10px;
   }
